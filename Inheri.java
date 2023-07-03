@@ -1,10 +1,4 @@
-abstract class DataInfo{
-    void display(){
-        System.out.println("info");
 
-    }
-    abstract void show_Info();
-}
 class InfoTeam{
     private int id;
     private String name;
